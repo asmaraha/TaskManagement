@@ -21,6 +21,25 @@ A task management system allows users to manage their tasks effectively. It incl
 
 ---
 
+## Screenshots
+
+### Application Interface
+![Screenshot 2024-12-31 014228](https://github.com/user-attachments/assets/6b506866-18cc-44ac-9fe2-b1ae2f118fb5)
+
+![Screenshot 2024-12-31 013655](https://github.com/user-attachments/assets/0d978d72-ce82-4c12-a1a9-66b1ad3f83f6)
+
+![Screenshot 2024-12-31 013709](https://github.com/user-attachments/assets/0f0336bd-d56b-46ed-982b-896ea0e7d861)
+
+![Screenshot 2024-12-31 013746](https://github.com/user-attachments/assets/b04d5f74-d22b-4252-93d0-8eaebabeff42)
+
+![Screenshot 2024-12-31 014058](https://github.com/user-attachments/assets/0f7c6da2-005a-44f0-a2fd-d870d4e81b8d)
+
+![Screenshot 2024-12-31 025205](https://github.com/user-attachments/assets/74359170-18b9-468a-86c6-bcc0ec6cca59)
+
+![Screenshot 2024-12-31 025011](https://github.com/user-attachments/assets/c1d2dac9-9d12-4909-a077-5d94cd37ad70)
+
+---
+
 ## Project Structure
 
 ### Backend Directory Structure (IntelliJ)
@@ -153,25 +172,6 @@ A task management system allows users to manage their tasks effectively. It incl
 ### Development Tools
 - IntelliJ IDEA
 - Visual Studio Code
-
----
-
-## Screenshots
-
-### Application Interface
-![Screenshot 2024-12-31 014228](https://github.com/user-attachments/assets/6b506866-18cc-44ac-9fe2-b1ae2f118fb5)
-
-![Screenshot 2024-12-31 013655](https://github.com/user-attachments/assets/0d978d72-ce82-4c12-a1a9-66b1ad3f83f6)
-
-![Screenshot 2024-12-31 013709](https://github.com/user-attachments/assets/0f0336bd-d56b-46ed-982b-896ea0e7d861)
-
-![Screenshot 2024-12-31 013746](https://github.com/user-attachments/assets/b04d5f74-d22b-4252-93d0-8eaebabeff42)
-
-![Screenshot 2024-12-31 014058](https://github.com/user-attachments/assets/0f7c6da2-005a-44f0-a2fd-d870d4e81b8d)
-
-![Screenshot 2024-12-31 025205](https://github.com/user-attachments/assets/74359170-18b9-468a-86c6-bcc0ec6cca59)
-
-![Screenshot 2024-12-31 025011](https://github.com/user-attachments/assets/c1d2dac9-9d12-4909-a077-5d94cd37ad70)
 
 ---
 
